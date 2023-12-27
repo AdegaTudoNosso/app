@@ -1,8 +1,8 @@
 credentials:
   usernames:
-    jsmith:
-      email: jsmith@gmail.com
-      name: John Smith
+    negaocanavial:
+      email: andersontudonossoadega@gmail.com
+      name: Anderson
       password: "$2b$12$Q.a8hTyUzKAECJwfovmoj.9fDYaQx3LxNoBx2dq1BbWNGZuRgVCz6"
     rbriggs:
       email: rbriggs@gmail.com
