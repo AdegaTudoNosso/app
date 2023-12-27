@@ -9,9 +9,9 @@ credentials:
       name: Rebecca Briggs
       password: "$2b$12$8U3CNuTq12hO2lDhYujs0OhAEDxkyt56JC607gUi7vBDKxtxejreK"
 cookie:
-  expiry_days: 30
-  key: some_signature_key # Must be string
-  name: some_cookie_name
+  expiry_days: 0
+  key: @AdegaTudoNosso # Must be string
+  name: online
 preauthorized:
   emails:
   - melsby@gmail.com
